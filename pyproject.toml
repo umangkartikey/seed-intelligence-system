@@ -1,0 +1,8 @@
+[project]
+name = "seed-intelligence-system"
+version = "0.1.0"
+description = "A modular seed-based adaptive intelligence architecture."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
